@@ -1,0 +1,17 @@
+palm_lower_frame
+ 	mcp_joint_frame
+ 	 	pip_frame
+ 	 	 	dip_frame
+ 	 	 	 	fingertip_frame
+ 	mcp_joint_2_frame
+ 	 	pip_2_frame
+ 	 	 	dip_2_frame
+ 	 	 	 	fingertip_2_frame
+ 	mcp_joint_3_frame
+ 	 	pip_3_frame
+ 	 	 	dip_3_frame
+ 	 	 	 	fingertip_3_frame
+ 	pip_4_frame
+ 	 	thumb_pip_frame
+ 	 	 	thumb_dip_frame
+ 	 	 	 	thumb_fingertip_frame
